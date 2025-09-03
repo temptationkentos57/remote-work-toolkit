@@ -3,6 +3,7 @@ console.log('Welcome to the Remote Work Toolkit!');
 
 function initializeDashboard() {
     // Initialize components here
+    // TODO: Add actual initialization logic
 }
 
 initializeDashboard();
